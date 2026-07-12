@@ -18,7 +18,7 @@ It combines:
 ## Live Demo
 
 Staging URL:  
-👉 https://staging.d3tm4qejgiq8cc.amplifyapp.com/
+ https://staging.d3tm4qejgiq8cc.amplifyapp.com/
 
 ---
 
@@ -211,10 +211,6 @@ Required for Lambda:
 - Replace full-table scan with vector index / ANN search for scalability
 - Add auth (Cognito/JWT) and per-user note partitioning
 - Add note update/delete endpoints
-- Add infrastructure-as-code (SAM/CDK/Terraform) for one-command deployment
 
 ---
 
-## License
-
-Add your preferred license (MIT/Apache-2.0/etc.) in a `LICENSE` file.
